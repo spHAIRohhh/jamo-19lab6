@@ -1,0 +1,23 @@
+{
+  "name": "jamo-19lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spHAIRohhh/jamo-19lab6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spHAIRohhh/jamo-19lab6/issues"
+  },
+  "homepage": "https://github.com/spHAIRohhh/jamo-19lab6#readme",
+  "dependencies": {
+    "ejs": "^2.7.1", //package written in js for server side
+    "express": "^4.17.1"
+  }
+}
