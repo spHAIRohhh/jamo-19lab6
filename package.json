@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +20,5 @@
   "bugs": {
     "url": "https://github.com/spHAIRohhh/jamo-19lab6/issues"
   },
-  "homepage": "https://github.com/spHAIRohhh/jamo-19lab6#readme",
-  "dependencies": {
-    "ejs": "^2.7.1", //package written in js for server side
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/spHAIRohhh/jamo-19lab6#readme"
 }
